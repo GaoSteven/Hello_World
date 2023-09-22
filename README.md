@@ -1,26 +1,26 @@
 # Hello_World
-This is a sample of a good README.md file that can be used when describing a project.  You can change the headings to fit your needs, but the idea is to provide a summary of the project, the files used, programs written and how to execute the program.  Think of this as documentation.
+This is a sample of a good README.md file that can be used when describing a project.  You can change the headings to fit your needs, but the idea is to provide a summary of the project, the files used, the programs written, and how to execute the program.  Think of this as documentation.
 
 ## Table of contents
 
+- [ABOUT ME](#About-Me)
 - [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
+## About Me
+
+My Name is Steven (^_^)
+
 ## Project Title
 
-*Hello World Sample* 
-
-## Description
-
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+No projects right now.
 
 ## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
+Explain here how you would run the program and what files must be available. 
 ```text
 Hello_World/
 └── 
@@ -33,7 +33,7 @@ Hello_World/
 
 ## Files Used 
 
-- Did you use any datafiles?  
+- Did you use any data files?  
 - List filenames
 - Where you got them 
 - What is contained within the data files?
@@ -49,4 +49,4 @@ No additional documentation at this time.  Here is some **BOLD** text
 
 ## Versioning
 
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+Please talk about any versioning used especially if you are making significant changes throughout the process of your code.
